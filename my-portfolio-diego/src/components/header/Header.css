@@ -9,3 +9,9 @@ header {
      height: 100%;
      position: relative;
 }
+
+/* ------------ CTA ----------*/
+.cta {
+    margin-top: 2.5rem;
+
+}
