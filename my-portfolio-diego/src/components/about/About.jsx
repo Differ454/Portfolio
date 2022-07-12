@@ -1,10 +1,12 @@
 import React from 'react'
 import './About.css'
 
-const Contact = () => {
+const About = () => {
   return (
-    <div>Contact</div>
+    <section id='about'>
+     About
+    </section>
   )
 }
 
-export default Contact
+export default About
