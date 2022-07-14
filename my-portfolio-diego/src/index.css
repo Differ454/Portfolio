@@ -20,6 +20,7 @@
     --color-light: #rgba(255, 255, 255, 0,6);
 
     --transition: all 400ms ease;
+    --transitionB: all 2000ms ease;
 
     --container-width-lg: 75%;
     --container-width-md: 86%;
@@ -119,8 +120,12 @@ img {
    width: 100%;
    object-fit: cover;
    border-radius: 12rem 12rem 0 0;
-  
 }
+
+img:hover {
+    transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    transition: var(--transitionB);
+  } 
 
 /*---------Media Queries (medium devices)------------------*/
 
@@ -132,6 +137,11 @@ img {
      section {
       margin-top: 6rem;
       }
+
+      img:hover {
+        transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+        transition: var(--transitionB);
+      } 
 }
 
 /*---------Media Queries (Small Devices)------------------*/
@@ -144,5 +154,10 @@ img {
      section > h2 {
       margin-bottom: 2rem;
       }
+
+      img:hover {
+        transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+        transition: var(--transitionB);
+      } 
 }
 
