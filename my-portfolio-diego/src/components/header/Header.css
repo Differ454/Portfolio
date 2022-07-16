@@ -50,6 +50,10 @@ header {
     padding: 0rem 0.5rem 4.5rem;
 }
 
+.Me:hover {
+    box-shadow: 0 0 30px #1c6dca;
+}
+
 /* ------------ Scroll Down ----------*/
 
 .scroll__down {

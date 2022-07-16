@@ -1,6 +1,24 @@
 import React from "react";
 import "./Experience.css";
 import { BsPatchCheckFill } from "react-icons/bs";
+import { AiOutlineHtml5 } from "react-icons/ai";
+import { SiJavascript } from "react-icons/si";
+import { GrReactjs } from "react-icons/gr";
+import { SiCsswizardry } from "react-icons/si";
+import { TbBrandBootstrap } from "react-icons/tb";
+import { FaNodeJs } from "react-icons/fa";
+import { SiPhp } from "react-icons/si";
+import { SiMongodb } from "react-icons/si";
+import { SiMysql } from "react-icons/si";
+
+
+
+
+
+
+
+
+
 
 function Experience() {
   return (
@@ -12,7 +30,7 @@ function Experience() {
           <h3>Frontend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <AiOutlineHtml5 className="experience__details-icon"/>
               <div>
                 <h4>HTML</h4>
                 <small className="text-light">Experienced</small>
@@ -20,7 +38,7 @@ function Experience() {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <SiCsswizardry className="experience__details-icon"/>
               <div>
                 <h4>CSS</h4>
                 <small className="text-light">Intermediate</small>
@@ -28,7 +46,7 @@ function Experience() {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <SiJavascript className="experience__details-icon"/>
               <div>
                 <h4>JavaScript</h4>
                 <small className="text-light">Experienced</small>
@@ -36,7 +54,7 @@ function Experience() {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <TbBrandBootstrap className="experience__details-icon"/>
               <div>
                 <h4>Bootstrap</h4>
                 <small className="text-light">Intermediate</small>
@@ -44,7 +62,7 @@ function Experience() {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <GrReactjs className="experience__details-icon"/>
               <div>
                 <h4>ReactJs</h4>
                 <small className="text-light">Experienced</small>
@@ -57,7 +75,7 @@ function Experience() {
           <h3>Backend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <FaNodeJs className="experience__details-icon"/>
               <div>
                 <h4>NodeJs</h4>
                 <small className="text-light">Experienced</small>
@@ -65,7 +83,7 @@ function Experience() {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <SiPhp className="experience__details-icon"/>
               <div>
                 <h4>PHP</h4>
                 <small className="text-light">Experienced</small>
@@ -73,7 +91,7 @@ function Experience() {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <SiMongodb className="experience__details-icon"/>
               <div>
                 <h4>MongoDB</h4>
                 <small className="text-light">Experienced</small>
@@ -81,7 +99,7 @@ function Experience() {
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <SiMysql className="experience__details-icon"/>
               <div>
                 <h4>MySQL</h4>
                 <small className="text-light">Intermediate</small>
