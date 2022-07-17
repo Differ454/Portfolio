@@ -1,6 +1,5 @@
 import React from "react";
 import "./Experience.css";
-import { BsPatchCheckFill } from "react-icons/bs";
 import { AiOutlineHtml5 } from "react-icons/ai";
 import { SiJavascript } from "react-icons/si";
 import { GrReactjs } from "react-icons/gr";
