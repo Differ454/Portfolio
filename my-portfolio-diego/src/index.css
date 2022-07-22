@@ -145,6 +145,18 @@ img:hover {
         transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
         transition: var(--transitionB);
       } 
+
+      h1 {
+        margin-left: 20%;
+         }
+
+      h5 {
+        margin-left: 20%;
+      }
+
+      section > h2, section > h5 {
+        margin-left: 2%;
+    }
 }
 
 /*---------Media Queries (Small Devices)------------------*/
