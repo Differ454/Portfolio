@@ -21,7 +21,7 @@ const data = [
     image: NJN,
     title: "Boomerang Ninja Game",
     github: "https://github.com/DrCloudFactory454/Boomerang-Ninja-Game",
-    demo: "https://js13kgames.com/games/bounce-back/index.html",
+    demo: "https://ninja-game-454.herokuapp.com/",
   },
 
   {
