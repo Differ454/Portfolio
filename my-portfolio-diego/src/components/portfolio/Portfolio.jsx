@@ -19,7 +19,7 @@ const data = [
   {
     id: 2,
     image: NJN,
-    title: "Boomerang Ninja Game",
+    title: "Boomerang Ninja Game (Desktop Version)",
     github: "https://github.com/DrCloudFactory454/Boomerang-Ninja-Game",
     demo: "https://ninja-game-454.herokuapp.com/",
   },
