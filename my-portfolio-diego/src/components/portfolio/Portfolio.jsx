@@ -11,7 +11,7 @@ const data = [
   {
     id: 1,
     image: RATE,
-    title: "Rate-My-Cv-App",
+    title: "RateMyCv App",
     github: "https://github.com/DrCloudFactory454/Rate-My-Cv-App",
     demo: "https://rate-my-cv-production.herokuapp.com/",
   },
@@ -27,7 +27,7 @@ const data = [
   {
     id: 3,
     image: TIC,
-    title: "tic-tac-toe Game",
+    title: "tic tac toe Game",
     github: "https://github.com/DrCloudFactory454/tic-tac-toe",
     demo: "https://tic-tac-toe-454.herokuapp.com/",
   },
