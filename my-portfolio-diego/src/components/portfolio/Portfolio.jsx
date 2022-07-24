@@ -3,7 +3,7 @@ import "./Portfolio.css";
 import STW from "../../assets/software.jpg";
 import RATE from "../../assets/rate.png";
 import NJN from "../../assets/ninja.jpg";
-// import STW from "../../assets/software.jpg";
+import TIC from "../../assets/tic tac toe.png";
 // import STW from "../../assets/software.jpg";
 // import STW from "../../assets/software.jpg";
 
@@ -26,10 +26,10 @@ const data = [
 
   {
     id: 3,
-    image: STW,
-    title: "Charts templates & infographics in Figma",
-    github: "https://github.com",
-    demo: "https://dribbble.com/shots/18861525-Lendary-Mobile",
+    image: TIC,
+    title: "tic-tac-toe Game",
+    github: "https://github.com/DrCloudFactory454/tic-tac-toe",
+    demo: "https://tic-tac-toe-454.herokuapp.com/",
   },
 
   {
