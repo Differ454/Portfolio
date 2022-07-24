@@ -3,7 +3,7 @@ import "./Portfolio.css";
 import STW from "../../assets/software.jpg";
 import RATE from "../../assets/rate.png";
 import NJN from "../../assets/ninja.jpg";
-import TIC from "../../assets/tic.png";
+import TIC from "../../assets/tic tac toe.png";
 // import STW from "../../assets/software.jpg";
 // import STW from "../../assets/software.jpg";
 
