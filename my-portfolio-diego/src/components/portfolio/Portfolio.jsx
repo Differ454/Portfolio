@@ -4,7 +4,7 @@ import STW from "../../assets/software.jpg";
 import RATE from "../../assets/rate.png";
 import NJN from "../../assets/ninja.jpg";
 import TIC from "../../assets/tic tac toe.png";
-// import STW from "../../assets/software.jpg";
+import GTH from "../../assets/GithubShooter.png";
 // import STW from "../../assets/software.jpg";
 
 const data = [
@@ -34,9 +34,9 @@ const data = [
 
   {
     id: 4,
-    image: STW,
-    title: "Charts templates & infographics in Figma",
-    github: "https://github.com",
+    image: GTH,
+    title: "GitHub Shooter Game (Desktop Version)",
+    github: "https://github.com/DrCloudFactory454/GithubShooterGame",
     demo: "https://dribbble.com/shots/18861525-Lendary-Mobile",
   },
   {
