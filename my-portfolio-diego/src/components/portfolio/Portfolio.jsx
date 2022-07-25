@@ -37,7 +37,7 @@ const data = [
     image: GTH,
     title: "GitHub Shooter Game (Desktop Version)",
     github: "https://github.com/DrCloudFactory454/GithubShooterGame",
-    demo: "https://dribbble.com/shots/18861525-Lendary-Mobile",
+    demo: "https://github-shooter-game.herokuapp.com/",
   },
   {
     id: 5,
