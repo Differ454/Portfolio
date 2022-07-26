@@ -81,11 +81,11 @@ var moverocks = setInterval(() => {
         window.getComputedStyle(rock).getPropertyValue("top")
       );
       //475 => boardheight - rockheight + 25 ---> //(rocktop >= 475)
-      if (rocktop >= 475) {
-        alert("Game Over");
-        clearInterval(moverocks);
-        window.location.reload();
-      }
+      // if (rocktop >= 475) {
+      //   alert("Game Over");
+      //   clearInterval(moverocks);
+      //   window.location.reload();
+      // }
 
       rock.style.top = rocktop + 25 + "px";
     }
