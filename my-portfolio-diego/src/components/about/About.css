@@ -77,7 +77,8 @@
 /* css cube */
 
 .wrap {
-  margin-top: 150px;
+  position: relative;
+  margin-top: 288px;
   margin-left: 15%;
   margin-bottom: 50%;
   perspective: 1000px;

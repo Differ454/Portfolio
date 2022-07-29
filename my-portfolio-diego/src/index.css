@@ -42,7 +42,7 @@ body {
    background: var(--color-bg);
    color: var(--color-white);
    line-height: 1.7;
-   background-image: url(../src/assets/image\ 2.jpg); 
+   background-image: url(../src/assets/universe.jpg); 
 }
 
 /*---------------- GENERAL STYLES --------------*/
