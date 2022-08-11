@@ -5,6 +5,7 @@ import RATE from "../../assets/rate.png";
 import NJN from "../../assets/ninja.jpg";
 import TIC from "../../assets/tic tac toe.png";
 import GTH from "../../assets/GithubShooter.png";
+import EAR from "../../assets/earth.png";
 // import STW from "../../assets/software.jpg";
 
 const data = [
@@ -41,10 +42,10 @@ const data = [
   },
   {
     id: 5,
-    image: STW,
-    title: "Charts templates & infographics in Figma",
-    github: "https://github.com",
-    demo: "https://dribbble.com/shots/18861525-Lendary-Mobile",
+    image: EAR,
+    title: "Earth 3D Three.JS Project(Desktop Version)",
+    github: "https://github.com/DrCloudFactory454/ThreeJs-3DEarth-Project-Vite-React",
+    demo: "https://drcloudfactory454.github.io/ThreeJs-3DEarth-Project-Vite-React/",
   },
   {
     id: 6,
